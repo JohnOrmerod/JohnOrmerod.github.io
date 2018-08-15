@@ -3,426 +3,426 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2014/09/creating-a-new-theme/</loc>
+    <loc>https://johnormerod.github.io/2014/09/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>https://johnormerod.github.io/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2015/07/hello-r-markdown/</loc>
+    <loc>https://johnormerod.github.io/2015/07/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2015/01/first-post/</loc>
+    <loc>https://johnormerod.github.io/2015/01/first-post/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/2015/01/primer-comentario/"
+                href="https://johnormerod.github.io/es/2015/01/primer-comentario/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2015/01/first-post/"
+                href="https://johnormerod.github.io/2015/01/first-post/"
                 />
   </url>
   
   <url>
-    <loc>/2014/04/hugo-template-primer/</loc>
+    <loc>https://johnormerod.github.io/2014/04/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/2014/04/hugo-template-primer/"
+                href="https://johnormerod.github.io/de/2014/04/hugo-template-primer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/2014/04/hugo-template-primer/"
+                href="https://johnormerod.github.io/es/2014/04/hugo-template-primer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2014/04/hugo-template-primer/"
+                href="https://johnormerod.github.io/2014/04/hugo-template-primer/"
                 />
   </url>
   
   <url>
-    <loc>/2014/04/getting-started-with-hugo/</loc>
+    <loc>https://johnormerod.github.io/2014/04/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/2014/04/getting-started-with-hugo/"
+                href="https://johnormerod.github.io/de/2014/04/getting-started-with-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/2014/04/getting-started-with-hugo/"
+                href="https://johnormerod.github.io/es/2014/04/getting-started-with-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2014/04/getting-started-with-hugo/"
+                href="https://johnormerod.github.io/2014/04/getting-started-with-hugo/"
                 />
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://johnormerod.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/about/"
+                href="https://johnormerod.github.io/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/about/"
+                href="https://johnormerod.github.io/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="https://johnormerod.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://johnormerod.github.io/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://johnormerod.github.io/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://johnormerod.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/categories/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://johnormerod.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://johnormerod.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/contact/"
+                href="https://johnormerod.github.io/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/contact/"
+                href="https://johnormerod.github.io/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact/"
+                href="https://johnormerod.github.io/contact/"
                 />
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>https://johnormerod.github.io/tags/demo/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/demo/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/tags/demo/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/demo/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/tags/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/demo/"
+                href="https://johnormerod.github.io/tags/demo/"
                 />
   </url>
   
   <url>
-    <loc>/categories/development/</loc>
+    <loc>https://johnormerod.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/categories/development/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/categories/development/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/development/"
+                href="https://johnormerod.github.io/tags/development/"
                 />
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
+    <loc>https://johnormerod.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/development/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/development/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/development/"
+                href="https://johnormerod.github.io/categories/development/"
                 />
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
+    <loc>https://johnormerod.github.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/go/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/tags/go/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/go/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/tags/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/go/"
+                href="https://johnormerod.github.io/tags/go/"
                 />
   </url>
   
   <url>
-    <loc>/categories/golang/</loc>
+    <loc>https://johnormerod.github.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/categories/golang/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/tags/golang/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/categories/golang/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/tags/golang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/golang/"
+                href="https://johnormerod.github.io/tags/golang/"
                 />
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>https://johnormerod.github.io/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/golang/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/categories/golang/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/golang/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/categories/golang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/golang/"
+                href="https://johnormerod.github.io/categories/golang/"
                 />
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://johnormerod.github.io/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/hugo/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/hugo/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/hugo/"
+                href="https://johnormerod.github.io/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>https://johnormerod.github.io/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://johnormerod.github.io/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/post/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/post/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="https://johnormerod.github.io/post/"
                 />
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://johnormerod.github.io/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://johnormerod.github.io/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>https://johnormerod.github.io/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://johnormerod.github.io/tags/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://johnormerod.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>/tags/templates/</loc>
+    <loc>https://johnormerod.github.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/templates/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/tags/templates/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/templates/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/tags/templates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/templates/"
+                href="https://johnormerod.github.io/tags/templates/"
                 />
   </url>
   
   <url>
-    <loc>/tags/themes/</loc>
+    <loc>https://johnormerod.github.io/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/themes/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/tags/themes/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/themes/"
+                href="https://johnormerod.github.io/tags/themes/"
                 />
   </url>
   
   <url>
-    <loc>/ua-47268287-3/</loc>
+    <loc>https://johnormerod.github.io/ua-47268287-3/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/ua-47268287-3/"
+                hreflang="de"
+                href="https://johnormerod.github.io/de/ua-47268287-3/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/ua-47268287-3/"
+                hreflang="es"
+                href="https://johnormerod.github.io/es/ua-47268287-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/ua-47268287-3/"
+                href="https://johnormerod.github.io/ua-47268287-3/"
                 />
   </url>
   
