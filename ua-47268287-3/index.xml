@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UA-47268287-3 on Just another statistics blog</title>
-    <link>https://johnormerod.github.io/ua-47268287-3/</link>
+    <link>/ua-47268287-3/</link>
     <description>Recent content in UA-47268287-3 on Just another statistics blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Some copyright message</copyright>
     
-	<atom:link href="https://johnormerod.github.io/ua-47268287-3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ua-47268287-3/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
