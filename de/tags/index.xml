@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bootstrap demo</title>
-    <link>https://johnormerod.github.io/de/tags/</link>
+    <link>/public/de/tags/</link>
     <description>Recent content in Tags on Bootstrap demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://johnormerod.github.io/de/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/public/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demo</title>
-      <link>https://johnormerod.github.io/de/tags/demo/</link>
+      <link>/public/de/tags/demo/</link>
       <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://johnormerod.github.io/de/tags/demo/</guid>
+      <guid>/public/de/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://johnormerod.github.io/de/tags/development/</link>
+      <link>/public/de/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://johnormerod.github.io/de/tags/development/</guid>
+      <guid>/public/de/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://johnormerod.github.io/de/tags/go/</link>
+      <link>/public/de/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://johnormerod.github.io/de/tags/go/</guid>
+      <guid>/public/de/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://johnormerod.github.io/de/tags/golang/</link>
+      <link>/public/de/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://johnormerod.github.io/de/tags/golang/</guid>
+      <guid>/public/de/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://johnormerod.github.io/de/tags/hugo/</link>
+      <link>/public/de/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://johnormerod.github.io/de/tags/hugo/</guid>
+      <guid>/public/de/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>https://johnormerod.github.io/de/tags/templates/</link>
+      <link>/public/de/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://johnormerod.github.io/de/tags/templates/</guid>
+      <guid>/public/de/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>https://johnormerod.github.io/de/tags/themes/</link>
+      <link>/public/de/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://johnormerod.github.io/de/tags/themes/</guid>
+      <guid>/public/de/tags/themes/</guid>
       <description></description>
     </item>
     
